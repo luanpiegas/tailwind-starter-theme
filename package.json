@@ -1,0 +1,13 @@
+{
+  "name": "tailwind-starter-theme",
+  "scripts": {
+    "build": "npx tailwindcss -i assets/css/tailwind.css -o style.css",
+    "watch": "npx tailwindcss -i assets/css/tailwind.css -o style.css --watch"
+  },
+  "keywords": [],
+  "author": "Luan Piegas",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}

@@ -1,0 +1,15 @@
+/* 
+ * Theme Name: Tailwind Starter Theme
+ * Theme URI: https://github.com/luanpiegas/tailwind-starter-theme
+ * Description: A starter theme powered by Tailwind CLI
+ * Version: 1.0.0
+ * Author: Luan Piegas
+ * Author URI: https://github.com/luanpiegas
+ * License: MIT
+ * License URI: https://github.com/luanpiegas/tst/blob/master/LICENSE
+ * Text Domain: theme_name
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
